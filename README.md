@@ -1,2 +1,3 @@
 # mypro
 demo
+automation
